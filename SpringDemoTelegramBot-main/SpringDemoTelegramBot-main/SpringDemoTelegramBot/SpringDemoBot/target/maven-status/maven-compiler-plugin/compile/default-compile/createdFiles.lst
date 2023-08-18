@@ -1,0 +1,6 @@
+io\project\SpringDemoBot\service\TelegramBot.class
+io\project\SpringDemoBot\SpringDemoBotApplication.class
+io\project\SpringDemoBot\model\User.class
+io\project\SpringDemoBot\config\BotConfig.class
+io\project\SpringDemoBot\config\BotInitializer.class
+io\project\SpringDemoBot\model\UserRepository.class
